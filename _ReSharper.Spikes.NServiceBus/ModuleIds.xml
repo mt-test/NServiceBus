@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="72984EF0-1E96-40EB-8FC7-1679D1D22435" ModuleId="Shared.Events" />
+  <Module PersistentId="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB" ModuleId="RedListener" />
+  <Module PersistentId="14099DCE-1C0D-4EFB-944B-BAF5859E01CF" ModuleId="GreenListener" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="811B0E64-82A3-4C7E-953C-DBDDDCF62F62" ModuleId="RGBListener" />
+  <Module PersistentId="EE0F6C49-BDB4-4C71-AB66-6E620111ECB1" ModuleId="RGBTrigger" />
+</Modules>

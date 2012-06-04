@@ -1,0 +1,78 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="numberEventsTB" priority="1" />
+      <Item value="public" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="GreenListener`0" priority="0" />
+      <Item value="RGBListenerForm`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:GreenListenerForm.cs" caret="61" fromTop="2" />
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:GreenListenerForm.Designer.cs" caret="3283" fromTop="85" />
+      <File id="811B0E64-82A3-4C7E-953C-DBDDDCF62F62/f:RGBListenerForm.Designer.cs" caret="5568" fromTop="85" />
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:GreenListener.cs" caret="21" fromTop="0" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListenerForm.cs" caret="354" fromTop="15" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListener.cs" caret="65" fromTop="3" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListenerForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:Program.cs" caret="0" fromTop="0" />
+      <File id="72984EF0-1E96-40EB-8FC7-1679D1D22435/f:Blue.cs" caret="49" fromTop="1" />
+      <File id="72984EF0-1E96-40EB-8FC7-1679D1D22435/f:Green.cs" caret="67" fromTop="3" />
+      <File id="72984EF0-1E96-40EB-8FC7-1679D1D22435/f:Red.cs" caret="65" fromTop="3" />
+      <File id="811B0E64-82A3-4C7E-953C-DBDDDCF62F62/f:RGBListenerForm.cs" caret="400" fromTop="12" />
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:Program.cs" caret="432" fromTop="14" />
+      <File id="811B0E64-82A3-4C7E-953C-DBDDDCF62F62/f:Program.cs" caret="485" fromTop="10" />
+      <File id="EE0F6C49-BDB4-4C71-AB66-6E620111ECB1/f:TriggerForm.cs" caret="646" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="72984EF0-1E96-40EB-8FC7-1679D1D22435/f:Green.cs" caret="84" fromTop="3" />
+      <File id="72984EF0-1E96-40EB-8FC7-1679D1D22435/f:Blue.cs" caret="49" fromTop="1" />
+      <File id="72984EF0-1E96-40EB-8FC7-1679D1D22435/f:Blue.cs" caret="76" fromTop="1" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListenerForm.Designer.cs" caret="59" fromTop="1" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListenerForm.Designer.cs" caret="3273" fromTop="12" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:Program.cs" caret="0" fromTop="0" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListenerForm.cs" caret="359" fromTop="10" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListenerForm.Designer.cs" caret="1574" fromTop="9" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListenerForm.cs" caret="359" fromTop="8" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListenerForm.cs" caret="13" fromTop="0" />
+      <File id="7D33975B-4161-4FA5-8B55-CC86D4AB5ECB/f:RedListenerForm.cs" caret="359" fromTop="15" />
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:GreenListener.cs" caret="21" fromTop="0" />
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:GreenListener.cs" caret="69" fromTop="0" />
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:GreenListenerForm.cs" caret="3285" fromTop="2" />
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:GreenListenerForm.cs" caret="61" fromTop="2" />
+      <File id="811B0E64-82A3-4C7E-953C-DBDDDCF62F62/f:RGBListenerForm.cs" caret="3352" fromTop="2" />
+      <File id="811B0E64-82A3-4C7E-953C-DBDDDCF62F62/f:RGBListenerForm.cs" caret="66" fromTop="2" />
+      <File id="72984EF0-1E96-40EB-8FC7-1679D1D22435/f:Red.cs" caret="75" fromTop="3" />
+      <File id="811B0E64-82A3-4C7E-953C-DBDDDCF62F62/f:RGBListenerForm.cs" caret="400" fromTop="12" />
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:Program.cs" caret="13" fromTop="0" />
+      <File id="14099DCE-1C0D-4EFB-944B-BAF5859E01CF/f:Program.cs" caret="432" fromTop="14" />
+      <File id="811B0E64-82A3-4C7E-953C-DBDDDCF62F62/f:Program.cs" caret="485" fromTop="10" />
+      <File id="EE0F6C49-BDB4-4C71-AB66-6E620111ECB1/f:TriggerForm.cs" caret="646" fromTop="10" />
+      <File id="811B0E64-82A3-4C7E-953C-DBDDDCF62F62/f:Program.cs" caret="510" fromTop="10" />
+      <File id="EE0F6C49-BDB4-4C71-AB66-6E620111ECB1/f:TriggerForm.cs" caret="646" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
